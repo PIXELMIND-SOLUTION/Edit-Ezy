@@ -8,7 +8,7 @@ const TermsandConditions = () => {
                     <h1 className="mb-4 text-center">Terms and Conditions</h1>
                     <p>
                         These Terms and Conditions ("Terms") govern your use of the{" "}
-                        <strong>One-Square</strong> application ("App"). By accessing or using the App, you agree to comply with and be bound by these Terms.
+                        <strong>EDIT-EZY</strong> application ("App"). By accessing or using the App, you agree to comply with and be bound by these Terms.
                     </p>
 
                     <div className="mb-4">
@@ -59,7 +59,7 @@ const TermsandConditions = () => {
                     <div className="mb-4">
                         <h4>7. Limitation of Liability</h4>
                         <p>
-                            One-Square is not liable for any indirect, incidental, or consequential damages resulting from your use of the App. The app is provided "as is" without warranties of any kind.
+                            EDIT-EZY is not liable for any indirect, incidental, or consequential damages resulting from your use of the App. The app is provided "as is" without warranties of any kind.
                         </p>
                     </div>
 
